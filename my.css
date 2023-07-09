@@ -130,18 +130,64 @@ p{
     height: 100vh;
     border-radius: 30pt;
 }
-
+.logotwiter{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 1px;
+    left: 50px;
+    transform: translate(-50%);
+    z-index: 10;
+}
+.logoinsta{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 1px;
+    left: 110px;
+    transform: translate(-50%);
+    z-index: 10;
+}
+.logoyoutube{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 1px;
+    left: 170px;
+    transform: translate(-50%);
+    z-index: 10;
+}
+.logoface{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 1px;
+    left: 230px;
+    transform: translate(-50%);
+    z-index: 10;
+}
+.logopinterest{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 1px;
+    left: 290px;
+    transform: translate(-50%);
+    z-index: 10;
+}
 .logopd{
     position: absolute;
     height: 30vh;
-    top: 1%;
+    top: 1px;
     left: 50%;
     transform: translate(-50%);
+    border-radius: 30pt;
 }
+
 
 .descgrp{
     position: absolute;
-    top: 30.5vh;
+    top: 30vh;
     left: 50%;
     transform: translate(-50%);
     background-color:transparent;
