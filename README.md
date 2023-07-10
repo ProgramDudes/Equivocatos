@@ -4,7 +4,7 @@ Este projeto é um blog desenvolvido para exibir posts que são lidos de um arqu
 
 ## Protótipo
 
-Confira o protótipo do site no Figma: [Protótipo](inserir-link-do-figma-aqui)
+Confira o protótipo do site no Figma: [Protótipo](https://www.figma.com/community/file/1260258827828607442)
 
 ## Demonstração
 
