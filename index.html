@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Equivocatos</title>
-    <link rel="stylesheet" href="./my.css">
+    <link rel="stylesheet" href="./post/my.css">
+    <link rel="icon" href="./post/hux/logo.png" type="image/x-icon">
 </head>
 <body>
     <header>
         <div class="header">
-        <a href="./index.html"><div class="headtit"><img src="./hux/logo.png" alt="Logo do Blog Equivocatos" class="logo"/><h1><b>Equivocatos</b></h1></div></a><h2>Focados na <b>Experiência</b></br>Viver é o que nos <b>cativa</b></h2></div>
+        <a href="../index.html"><div class="headtit"><img src="./post/hux/logo.png" alt="Logo do Blog Equivocatos" class="logo"/><h1><b>Equivocatos</b></h1></div></a><h2>Focados na <b>Experiência</b></br>Viver é o que nos <b>cativa</b></h2></div>
         </div>
         <div class="line1"></div>
     </header>
@@ -19,30 +20,70 @@
         <h3><b>Posts</b></h3>
         <div id="posts">
             <div class="postl">
-                <div class="post"><p>TESTE TESTE</p><img src="./hux/ost.png" alt="post1" class="postimg"/></div>
-                <div class="post"><p>Nome aqui</p><img src="./hux/ost.png" alt="post1" class="postimg"/></div>
-                <div class="post"><p>Nome aqui</p><img src="./hux/ost.png" alt="post1" class="postimg"/></div>
-            </div>
-            <div class="postl2">
-                <div class="post"><p>Nome aqui</p><img src="./hux/ost.png" alt="post1" class="postimg"/></div>
-                <div class="post"><p>Nome aqui</p><img src="./hux/ost.png" alt="post1" class="postimg"/></div>
-                <div class="post"><p>Nome aqui</p><img src="./hux/ost.png" alt="post1" class="postimg"/></div>
-            </div>
-        </div>
-        <div id="newsletter">
-            <p>colocar o form de newsletter aqui</p>
+                <a href="post/?post=0" class="post-link">
+                  <div class="post">
+                    <p id="nomepost1">TESTE TESTE</p>
+                    <img src="././post/hux/ost.png" alt="post1" class="postimg"/>
+                  </div>
+                </a>
+                <a href="post/?post=1" class="post-link">
+                  <div class="post">
+                    <p id="nomepost2">Nome aqui</p>
+                    <img src="././post/hux/ost.png" alt="post2" class="postimg"/>
+                  </div>
+                </a>
+                <a href="post/?post=2" class="post-link">
+                  <div class="post">
+                    <p id="nomepost3">Nome aqui</p>
+                    <img src="././post/hux/ost.png" alt="post3" class="postimg"/>
+                  </div>
+                </a>
+              </div>
+              
+              <div class="postl2">
+                <a href="post/?post=3" class="post-link">
+                  <div class="post">
+                    <p id="nomepost4">Nome aqui</p>
+                    <img src="././post/hux/ost.png" alt="post4" class="postimg"/>
+                  </div>
+                </a>
+                <a href="post/?post=4" class="post-link">
+                  <div class="post">
+                    <p id="nomepost5">Nome aqui</p>
+                    <img src="././post/hux/ost.png" alt="post5" class="postimg"/>
+                  </div>
+                </a>
+                <a href="post/?post=5" class="post-link">
+                  <div class="post">
+                    <p id="nomepost6">Nome aqui</p>
+                    <img src="././post/hux/ost.png" alt="post6" class="postimg"/>
+                  </div>
+                </a>
+              </div>
         </div>
     </div>
     <div id="direita">
-        <img src="./hux/logofacebook.png" width="50" height="50" alt="Logo Facebook" class="logoface">
-        <img src="./hux/logoinsta.png" width="50" height="50" alt="Logo Instagram" class="logoinsta">
-        <img src="./hux/logoyoutube.png" width="50" height="50" alt="Logo Youtube" class="logoyoutube">
-        <img src="./hux/logotwiter.avif" width="50" height="50" alt="Logo Twiter" class="logotwiter">
-        <img src="./hux/logopinterest.png" width="50" height="50" alt="Logo Pinterest" class="logopinterest">
-        <img src="./hux/logopd.jpeg" alt="Logo Program dudes" class="logopd">
-        <p class="descgrp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corporis exercitationem sint nesciunt deleniti quod provident, nihil nemo quae quo earum sapiente tempora nobis vero qui ipsa id, magnam odit!</p>
-        
+        <div class="imgpd"><img src="././post/hux/logopd.jpeg" alt="Logo Program dudes" class="logopd"></div>
+        <div><p class="descgrp">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p></div>
+        <div class="logos">
+            <a href="https://www.facebook.com">
+                <img src="././post/hux/logofacebook.png" alt="Logo Facebook" class="logo">
+              </a>
+              
+              <a href="https://www.instagram.com">
+                <img src="././post/hux/logoinsta.png" alt="Logo Instagram" class="logo">
+              </a>
+              
+              <a href="https://www.youtube.com">
+                <img src="././post/hux/logoyoutube.png" alt="Logo Youtube" class="logo">
+              </a>
+              
+              <a href="https://www.pinterest.com">
+                <img src="././post/hux/logopinterest.png" alt="Logo Pinterest" class="logo">
+              </a>
+        </div>
     </div>
     </div>
+    <script src="././my.js"></script>
 </body>
 </html>
