@@ -168,6 +168,11 @@ p{
     width: 100%;
 }
 
+.imagemdopost{ 
+    display: flex;
+    justify-content: center;
+}
+
 #imagemdopost{
     height: 40vh;
 }
