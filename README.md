@@ -10,7 +10,7 @@ Confira o protótipo do site no Figma: [Protótipo](inserir-link-do-figma-aqui)
 
 Você pode visualizar o blog ao vivo no GitHub Pages: [Blog](https://programdudes.github.io/Equivocatos/)
 
-| <img src="./READMEsrc/pag1.png"/> | <img src="./READMEsrc/pag1.png"/>  |
+| <img src="./READMEsrc/imagem_2023-07-10_081545131.png"/> | <img src="./READMEsrc/imagem_2023-07-10_081748980.png"/>  |
 | ----- | ----- |
 | <p align="center">Home</p> | <p align="center">Post</p> |
 ## Posts
