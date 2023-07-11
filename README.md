@@ -46,3 +46,5 @@ Para mais informações sobre os termos e condições da licença, consulte o ar
 
 ## A Equipe
 A Program Dudes é uma equipe de desenvolvimento formada por universitários de Engenharia de Software
+
+[<img src="https://avatars.githubusercontent.com/u/136010433" width="100"/>![span](https://placehold.co/10x100/000000/000000.png)![span](https://placehold.co/220x100/FFFFFF/000000/png?text=Program%20dudes)](https://programdudes.github.io)
